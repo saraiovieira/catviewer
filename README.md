@@ -1,7 +1,6 @@
 # 🐱 Cat Viewer 
 
-Cat viewer using <a href="https://thecatapi.com/">The Cat API</a>. It was created in <a href="https://frontendmasters.com/bootcamp/">Frontend Masters Web Development Bootcamp</a>
-
+Cat viewer using <a href="https://thecatapi.com/">The Cat API</a>.
 ## Technologies
 - HTML
 - CSS
